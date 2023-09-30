@@ -1,0 +1,3 @@
+- Script navigates to Google and performs a search using Safari.
+- Utilizes Selenium's WebDriver for Safari.
+- Designed for demonstration and practice purposes.
